@@ -40,9 +40,9 @@ An interactive hardware game built using an **Arduino Uno**, designed to demonst
 
 ![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/CircuitImage2.jpeg)
 
-![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/Working%20of%20the%20Game.mp4)
+![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/Working%20of%20the%20Game.mp4.mp4)
 
-![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/All%20connection%20of%20the%20game)
+![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/SET%20UP.mp4)
 
 
 ## 💻 Source Code
