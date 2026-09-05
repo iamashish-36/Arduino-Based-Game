@@ -27,17 +27,26 @@ An interactive hardware game built using an **Arduino Uno**, designed to demonst
 
 ## 🔌 Circuit
 
-![Circuit Diagram](circuit/circuit-diagram.png)
+![Circuit Diagram]https://github.com/iamashish-36/Arduino-Based-Game/blob/main/CIRCUIT%20CONNECTIONS)
 
 ## 📸 Project
 
-![Project](images/project-1.jpg)
+![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/CircuitImage1.jpeg)
+
+![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/CircuitImage2.jpeg)
+
+![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/Working%20of%20the%20Game.mp4)
+
+![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/All%20connection%20of%20the%20game)
+
+
+
 
 ![Project](images/project-2.jpg)
 
 ## 💻 Source Code
 
-`src/Arduino-Based-Game.ino`
+(https://github.com/iamashish-36/Arduino-Based-Game/blob/main/ArduinoIDECODE.ino)
 
 ## 🎥 Demo
 
