@@ -9,13 +9,18 @@ An interactive hardware game built using an **Arduino Uno**, designed to demonst
 * Game logic and scoring
 * Visual feedback
 * Arduino-based control
+* 
+## 🔧 Hardware Components
 
-## 🛠️ Components
+| Component | Quantity |
 
-| Component        | Quantity |
-| ---------------- | -------: |
-| Arduino Uno      |        1 |
-| Other components |        — |
+| Arduino Uno | 1 |
+| Breadboard | 1 |
+| LEDs (Red, Blue, Yellow, Green) | 4 |
+| Push Buttons | 4 |
+| 220Ω Resistors | 4 |
+| SG90 Servo Motor | 1 |
+| Jumper Wires | As Required |
 
 ## ⚙️ How It Works
 
@@ -27,7 +32,7 @@ An interactive hardware game built using an **Arduino Uno**, designed to demonst
 
 ## 🔌 Circuit
 
-![Circuit Diagram]https://github.com/iamashish-36/Arduino-Based-Game/blob/main/CIRCUIT%20CONNECTIONS)
+![Circuit Diagram] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/CIRCUIT%20DIAGRAM%20TINKERCAD)
 
 ## 📸 Project
 
@@ -39,10 +44,6 @@ An interactive hardware game built using an **Arduino Uno**, designed to demonst
 
 ![Project] (https://github.com/iamashish-36/Arduino-Based-Game/blob/main/All%20connection%20of%20the%20game)
 
-
-
-
-![Project](images/project-2.jpg)
 
 ## 💻 Source Code
 
